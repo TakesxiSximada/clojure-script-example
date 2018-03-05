@@ -1,0 +1,7 @@
+Building ...
+Compiling out/cljs/nodejs.cljs
+Compiling src/hello_world/core.cljs
+Copying jar:file:/Users/sximada/Desktop/clojure-script-example/cljs.jar!/cljs/nodejs.cljs to out/cljs/nodejs.cljs
+Copying jar:file:/Users/sximada/Desktop/clojure-script-example/cljs.jar!/cljs/nodejscli.cljs to out/cljs/nodejscli.cljs
+... done. Elapsed 0.446661947 seconds
+Watching paths: /Users/sximada/Desktop/clojure-script-example/src

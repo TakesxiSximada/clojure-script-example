@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/sximada\/Desktop\/clojure-script-example\/out\/hello_world\/core.js","sources":["core.cljs"],"lineCount":9,"mappings":";AAyBA;;AAEA,AAACA;AAED,6BAAA,7BAAMC;AAAN,AACE,aAAA,NAACC","names":["cljs.core\/enable-console-print!","hello-world.core\/say-hello","js\/alert"]}
